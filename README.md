@@ -112,7 +112,11 @@ Acerca a los estudiantes al reconocimiento de productores, consumidores
 y descomponedores de su entorno, fomentando el conocimiento y el cuidado
 de la biodiversidad local mediante tecnología de bajo costo.
 
-## 7. Estructura del repositorio
+## 7. Video de la prueba en vivo
+
+[Ver la prueba en YouTube](https://youtube.com/shorts/2R2ZwD1Nh9Y) (también en [`video/enlace.txt`](video/enlace.txt)).
+
+## 8. Estructura del repositorio
 
 ```
 ├── README.md
@@ -120,7 +124,8 @@ de la biodiversidad local mediante tecnología de bajo costo.
 │   └── blueprint.json
 ├── imagenes/            capturas del escenario completo con filtros
 ├── video/
-│   └── enlace.txt       enlace a la prueba en vivo (YouTube)
+│   ├── enlace.txt       enlace a la prueba en vivo (YouTube)
+│   └── README.md        mismo enlace, clicable
 └── resultados/
     └── Resultados.pdf   lo aprendido en esta práctica
 ```
