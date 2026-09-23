@@ -24,6 +24,12 @@ Si el mensaje no trae una foto, el bot le pide al usuario que envíe una.
 
 ## 3. Arquitectura del escenario
 
+![Escenario completo en Make, con los filtros visibles](imagenes/escenario_completo.png)
+
+Prueba en Telegram: una foto recibe una sola respuesta con el análisis.
+
+![Prueba del bot en Telegram](imagenes/prueba_bot_telegram.png)
+
 ```
 Telegram: Watch Updates
         │
