@@ -28,7 +28,7 @@ Si el mensaje no trae una foto, el bot le pide al usuario que envíe una.
 
 Prueba en Telegram: una foto recibe una sola respuesta con el análisis.
 
-![Prueba del bot en Telegram](imagenes/prueba_bot_telegram.png)
+![Prueba del bot en Telegram](imagenes/prueba_bot_telegram.jpg)
 
 ```
 Telegram: Watch Updates
